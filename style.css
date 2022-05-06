@@ -1,0 +1,16 @@
+.navbar-nav,
+.navbar-nav .nav-item a {
+  color: #fff !important;
+}
+.navbar-nav .vr {
+  align-self: center;
+  min-height: 1.1em;
+  color: #000;
+}
+.nav-link .badge {
+  font-size: 0.6em;
+}
+.user p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}

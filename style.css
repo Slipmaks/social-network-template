@@ -20,7 +20,7 @@
   margin-bottom: 0.5em;
 }
 
-.feed .card-footer p {
+.feed p {
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -38,9 +38,10 @@
 .user-logo {
   content: url(./media/user_logo.svg);
   height: var(--big-icon-size);
-  background: rgb(218, 218, 218);
-  border-radius: 50%;
+  background: rgb(216, 216, 216);
+  border-radius: 100%;
 }
+
 .dots {
   content: url(./media/dots.svg);
 }
